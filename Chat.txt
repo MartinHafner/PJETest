@@ -2,4 +2,11 @@ Miiauz: Hallo Leute =D!
 DonColon: Hallo Miiauz
 Miiauz: Die anderen dürfen auch ruhig hier schreiben....
 Binderli: Hallo Leute!
+<<<<<<< HEAD
 Miiauz: Huhu.
+=======
+>>>>>>> 700fc4ddbfab05bffa7fc9fff49988b3657b6016
+Martin: Maik ist dumm
+Martin: Spaß ;-)
+Binderli: HAHAHAHAHA
+>>>>>>> 689931b798faf60ff32b2a77a62e3f2ebdad9b81
