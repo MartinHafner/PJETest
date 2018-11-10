@@ -1,2 +1,0 @@
-# PJETest
-Git Übung
