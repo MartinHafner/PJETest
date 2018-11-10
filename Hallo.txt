@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hallo! ich bin erster (Martin)
 Und ich der zweite!! (Miiauz)
+=======
+Hallo! ich bin erster
+Schnell kollision!!!
+>>>>>>> 8d7bcedd485adf3cf749cf3a8de5999b93710758
