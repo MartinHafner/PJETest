@@ -1,4 +1,4 @@
-Miiauz: Hallo Leute =D!
+﻿Miiauz: Hallo Leute =D!
 DonColon: Hallo Miiauz
 <<<<<<< HEAD
 Miiauz: Die anderen dürfen auch ruhig hier schreiben....
@@ -8,3 +8,4 @@ Binderli: Hallo Leute!
 Martin: Maik ist dumm
 Martin: Spaß ;-)
 Binderli: HAHAHAHAHA
+Binderli: ihr seit zu langsam
